@@ -1,0 +1,12 @@
+openai
+scikit-learn
+matplotlib
+llama-index 
+llama-index-tools-wikipedia 
+llama-index-readers-wikipedia 
+wikipedia
+llama-index-llms-litellm
+llama-index-embeddings-litellm
+torch 
+torchvision 
+torchaudio
