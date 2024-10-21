@@ -10,3 +10,4 @@ llama-index-embeddings-litellm
 torch 
 torchvision 
 torchaudio
+termcolor
